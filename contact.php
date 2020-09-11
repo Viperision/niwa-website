@@ -6,7 +6,7 @@ include('_header.php');
 <div id="main">
 <h1>Contact Us</h1>
 
-<form method="post" action="../mail.php">
+<form method="post" action="/mail.php">
 <p class="form">Name:</p>
 <input type="text" name="name" class="contact" />
 <p class="form">E-mail Address:</p>

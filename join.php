@@ -28,7 +28,7 @@ include('_header.php');
   
 <p>Please note that simply following these suggestions does not guarantee membership - these are just a few basic guidelines to follow before you even apply. Just as well, if we see a wiki has great potential but is lacking in just a few small ways, we can always work something out. Good luck, and we hope to hear from you soon.</p>
 
-<p>Please note that these guidelines are subject to change without notice. If you are interested in joining or affiliating with NIWA, please <a href="../contact">contact us</a>.</p>
+<p>Please note that these guidelines are subject to change without notice. If you are interested in joining or affiliating with NIWA, please <a href="/contact">contact us</a>.</p>
 
 </div>
 

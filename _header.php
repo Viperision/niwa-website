@@ -8,7 +8,7 @@ include('_api.php');
 <meta charset="UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>NIWA - <?php if ($title!='') { echo $title; } else { echo 'Nintendo Independent Wiki Alliance'; } ?></title>
-<link href="../style.css" rel="stylesheet" type="text/css" />
+<link href="/style.css" rel="stylesheet" type="text/css" />
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -26,7 +26,7 @@ include('_api.php');
 <div id="container">
 
 <div id="header">
-<a href="http://niwanetwork.org" title="NIWA Network"><img src="../images/logo.png" width="250px" alt="NIWA Network" /></a>
+<a href="/" title="NIWA Network"><img src="/images/logo.png" width="250px" alt="NIWA Network" /></a>
 </div>
 
 <?php include('_menu.php'); ?>
