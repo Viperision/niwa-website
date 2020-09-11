@@ -1,4 +1,4 @@
-<?php 
+<?php
 $title = 'NIWA Newsletter';
 include('_header.php');
 ?>
@@ -33,6 +33,7 @@ include('_header.php');
 			font-size: 16px;
 		}
 	</style>
+
 	<div style="width: 100%; text-align: center;">
 		<a href="http://niwanetwork.us15.list-manage1.com/subscribe?u=20133e4cd65f84564efdc520e&id=2d691e5696"><div class="button"><span style="color: #FFFFFF;">Click here to subscribe!</span></div></a>
 	</div>
@@ -44,7 +45,7 @@ include('_header.php');
 	<br><br>
 
 	<h1>Archive</h1>
-	
+
 	<ul>
 		<li><a href="http://www.niwanetwork.org/newsletter/2017/05/">May 2017</a></li>
 		<li><a href="http://www.niwanetwork.org/newsletter/2017/06/">June 2017</a></li>
@@ -60,7 +61,7 @@ include('_header.php');
 	</ul>
 </div>
 
-<?php 
+<?php
 include('_sidebar.php');
 include('_footer.php');
 ?>

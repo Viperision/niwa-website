@@ -1,4 +1,4 @@
-<?php 
+<?php
 $title = 'Cross-Wiki Weekend';
 include('_header.php');
 ?>
@@ -34,7 +34,7 @@ include('_header.php');
 	</ul>
 
 	<h1>Goals</h1>
-	
+
 	In addition to being a fun way of celebrating Nintendo's birthday, we hope this event...
 	<ul>
 		<li>...exposes editors to new wikis</li>
@@ -44,7 +44,7 @@ include('_header.php');
 	</ul>
 </div>
 
-<?php 
+<?php
 include('_sidebar.php');
 include('_footer.php');
 ?>

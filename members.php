@@ -22,41 +22,41 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 }
 
 input {
-    display: none;
+	display: none;
 }
 
 input:checked + label {
-    border: 1px solid #BBBBBB;
-    border-top: 2px solid #B22222;
-    border-bottom: 0px solid;
+	border: 1px solid #BBBBBB;
+	border-top: 2px solid #B22222;
+	border-bottom: 0px solid;
 	color: #555;
 }
 
 label {
-    border: 0px solid;
+	border: 0px solid;
 	color: #BBBBBB;
 	display: inline-block;
-    padding: 15px 25px;
-    text-align: center;
+	padding: 15px 25px;
+	text-align: center;
 }
 
 label:hover {
-    color: #B22222;
-    cursor: pointer;
+	color: #B22222;
+	cursor: pointer;
 }
 
 section {
 	border-top: 1px solid #BBBBBB;
-    display: none;
-    padding: 10px 0px 0px;
+	display: none;
+	padding: 10px 0px 0px;
 }
 
 #tab1:checked ~ #content1,
 #tab2:checked ~ #content2 {
-    display: block;
+	display: block;
 }
 #tab3:checked ~ #content3 {
-    display: block;
+	display: block;
 }
 </style>
 

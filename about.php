@@ -1,4 +1,4 @@
-<?php 
+<?php
 $title = 'About the Nintendo Independent Wiki Alliance';
 include('_header.php');
 ?>
@@ -16,9 +16,9 @@ include('_header.php');
 <p>The word "niwa" in Japanese translates as "garden", and it is that concept which best embodies us. NIWA is bound together by our common desire to better ourselves (and each other) while retaining our own identities and autonomy. We are a nurturing place that will provide each and every member with knowledge and support that will help them grow into a vibrant and independent wiki. Our feelings on this can be summarised thus:</p>
 
 <ul>
-<li>Fan communities should be run by the fans, not by wiki farms that are only in it for the money and take no interest in the wiki's content itself.</li>
-<li>Fan communities should be run for the fans, by people who will always think about how they can continue to enhance the enjoyment of everyone in the community.</li>
-<li>Fan communities should be run together with the fans, embracing a spirit of co-operation and camaraderie within and between our fandoms, fostering friendly rivalries rather than bitter divides.</li>
+	<li>Fan communities should be run by the fans, not by wiki farms that are only in it for the money and take no interest in the wiki's content itself.</li>
+	<li>Fan communities should be run for the fans, by people who will always think about how they can continue to enhance the enjoyment of everyone in the community.</li>
+	<li>Fan communities should be run together with the fans, embracing a spirit of co-operation and camaraderie within and between our fandoms, fostering friendly rivalries rather than bitter divides.</li>
 </ul>
 
 <h1>Our Goals</h1>
@@ -43,8 +43,8 @@ include('_header.php');
 
 <ul>
 	<li>Fan communities should be run by the fans, by people whose involvement in the well-being of the community is of the emotional nature of the fan. They may be funded or hosted by them, but the actual operation of these communities should not be in the hands of those having only a purely financial investment, with no interest in the wiki's content itself.</li>
-    <li>Fan communities should be run for the fans, by people who will take a positive interest in the fans' desires, always thinking about how they can continue to enhance the enjoyment of everyone in the community.</li>
-    <li>Fan communities should be run together with the fans, embracing a spirit of co-operation and camaraderie in our fandoms, with friendly rivalries rather than bitter divides.</li>
+	<li>Fan communities should be run for the fans, by people who will take a positive interest in the fans' desires, always thinking about how they can continue to enhance the enjoyment of everyone in the community.</li>
+	<li>Fan communities should be run together with the fans, embracing a spirit of co-operation and camaraderie in our fandoms, with friendly rivalries rather than bitter divides.</li>
 </ul>
 
 <h1>Our Goals</h1>
@@ -61,7 +61,7 @@ include('_header.php');
 -->
 </div>
 
-<?php 
+<?php
 include('_sidebar.php');
 include('_footer.php');
 ?>

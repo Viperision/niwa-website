@@ -1,4 +1,4 @@
-<?php 
+<?php
 include('_api.php');
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -18,7 +18,6 @@ include('_api.php');
 
   ga('create', 'UA-98371516-1', 'auto');
   ga('send', 'pageview');
-
 </script>
 </head>
 
@@ -29,6 +28,8 @@ include('_api.php');
 <a href="/" title="NIWA Network"><img src="/images/logo.png" width="250px" alt="NIWA Network" /></a>
 </div>
 
-<?php include('_menu.php'); ?>
+<?php
+include('_menu.php');
+?>
 
 <div id="content">

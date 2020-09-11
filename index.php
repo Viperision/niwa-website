@@ -1,9 +1,8 @@
-<?php 
+<?php
 include('_header.php');
 ?>
 
 <div id="main">
-
 <div id="logos">
 <p>
 <a href='".$armswiki["url"]."'><img src='".$armswiki["logo"]."' alt='ARMS Institute' height='150' /></a>
@@ -33,7 +32,7 @@ include('_header.php');
 </div>
 </div>
 
-<?php 
+<?php
 include('_sidebar.php');
 include('_footer.php');
 ?>
