@@ -1,5 +1,4 @@
 <?php 
-$topbar = 'off';
 $title = 'Legal';
 include('_header.php');
 ?>

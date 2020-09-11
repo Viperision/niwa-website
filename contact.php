@@ -1,5 +1,4 @@
 <?php 
-$topbar = 'off';
 $title = 'Contact Us';
 include('_header.php');
 ?>

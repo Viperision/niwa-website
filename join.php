@@ -1,5 +1,4 @@
 <?php 
-$topbar = 'off';
 $title = 'Join';
 include('_header.php');
 ?>

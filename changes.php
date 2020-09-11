@@ -1,5 +1,4 @@
 <?php 
-$topbar = 'off';
 $title = 'Recent Changes';
 include('_header.php');
 ?>

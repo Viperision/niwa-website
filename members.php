@@ -1,5 +1,4 @@
 ﻿<?php
-$topbar = 'off';
 $title = 'Members';
 include('_header.php');
 ?>
@@ -7,7 +6,6 @@ include('_header.php');
 <div id="main">
 <h1>NIWA Members</h1>
 
-<?php echo "
 <!-- Derived from https://codepen.io/oknoblich/pen/tfjFl -->
 <!--
 Copyright (c) 2017 by Oliver Knoblich (http://codepen.io/oknoblich/pen/tfjFl)
@@ -350,10 +348,6 @@ La Xenopedia è il primo wiki italiano completamente dedicato alla serie Xenobla
 </div>
 
 </section>
-
-
-"; ?>
-
 
 </div>
 

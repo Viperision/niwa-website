@@ -1,7 +1,6 @@
 <?php
 $errorid = $_GET['error'];
 $title = 'NIWA - Nintendo Independence Wiki Alliance';
-$topbar = 'on';
 include('_header.php');
 ?>
 

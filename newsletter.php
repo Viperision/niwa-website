@@ -1,5 +1,4 @@
 <?php 
-$topbar = 'off';
 $title = 'NIWA Newsletter';
 include('_header.php');
 ?>

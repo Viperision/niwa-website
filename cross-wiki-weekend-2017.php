@@ -1,5 +1,4 @@
 <?php 
-$topbar = 'off';
 $title = 'Cross-Wiki Weekend 2017';
 include('_header.php');
 ?>

@@ -1,5 +1,4 @@
 <?php 
-$topbar = 'off';
 $title = 'About the Nintendo Independent Wiki Alliance';
 include('_header.php');
 ?>

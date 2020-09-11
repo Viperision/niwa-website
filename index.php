@@ -1,12 +1,10 @@
 <?php 
 include('_header.php');
-$topbar = off;
 ?>
 
 <div id="main">
 
 <div id="logos">
-<?php echo "
 <p>
 <a href='".$armswiki["url"]."'><img src='".$armswiki["logo"]."' alt='ARMS Institute' height='150' /></a>
 <a href='".$bulbapedia["url"]."'><img src='".$bulbapedia["logo"]."' alt='Bulbapedia' height='150' /></a>
@@ -31,7 +29,7 @@ $topbar = off;
 <a href='".$wikibound["url"]."'><img src='".$wikibound["logo"]."' alt='WikiBound' height='150' /></a>
 <a href='".$wikirby["url"]."'><img src='".$wikirby["logo"]."' alt='WiKirby' height='150' /></a>
 <a href='".$zeldawiki["url"]."'><img src='".$zeldawiki["logo"]."' alt='ZeldaWiki' height='150' /></a>
-"; ?>
+</p>
 </div>
 </div>
 
